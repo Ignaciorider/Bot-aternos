@@ -1,0 +1,5 @@
+{
+  "keep_alive": true,
+  "check_interval_seconds": 1,
+  "action_on_exit": "restart"
+}
